@@ -1,5 +1,6 @@
 Download the course video from here: https://d2f1egay8yehza.cloudfront.net/IITCS213/IITCS2132016-V000600_DTH.mp4
 
+Session 1
 Practice Problem Set
 
 Q1 Select the correct alternative(s) which is/are some default built-in data types provided in C++ ?
@@ -48,7 +49,8 @@ Q2 Consider the C++ code snippet given below.
    
    Ans.
    s1=s2
-   Both the data structures occupy the same amount of memory. The function declarations made in the class tiger do not occupy space in      an instance of the class.
+   Both the data structures occupy the same amount of memory. The function declarations made in the class tiger do not occupy space in 
+   an instance of the class.
    
    
 
