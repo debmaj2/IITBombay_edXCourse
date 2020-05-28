@@ -1,0 +1,56 @@
+Download the course video from here: https://d2f1egay8yehza.cloudfront.net/IITCS213/IITCS2132016-V000600_DTH.mp4
+
+Session 1
+Practice Problem Set
+
+Q1 Select the correct alternative(s) which is/are some default built-in data types provided in C++ ?
+
+Ans.
+char,
+long double
+
+Q2 Consider the C++ code snippet given below.
+   #include<iostream>
+   using namespace std;
+    int main() {
+    double a, i;
+    cin >> a >> i;
+    cout << a << i;
+    } 
+    
+    Select all the variable(s) and function(s) present in the above code.
+    
+    Ans.
+    main(),
+    a,
+    i.
+    a and i are the variables while double is their datatype/structure, main() is the function, while cin and cout are the objects of       type istream and ostream respectively.
+    
+ Q3 Consider we have the following two data structures in C++:
+    struct zebra{
+    string parrot;
+    float cobra;
+    };
+    
+   class tiger{
+   public:
+    string dog;
+    float eagle;
+    
+    char cat(){
+      // some operations here
+    }
+    
+    string lion(string human){
+      // some operations here
+      return human;
+    }
+   };
+   
+   Ans.
+   s1=s2
+   Both the data structures occupy the same amount of memory. The function declarations made in the class tiger do not occupy space in 
+   an instance of the class.
+   
+   
+
